@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-multipart
+transformers
+torch
+pillow
+opencv-python
+
+PyWavelets
+scikit-image
+scipy
+ftfy
+regex

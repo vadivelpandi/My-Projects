@@ -1,0 +1,16 @@
+Initializing ModelManager...
+Starting background model loading...
+Waiting 10s for models to start loading...
+Checking loading status:
+  umm-maybe/AI-image-detector: Pending
+  prithivMLmods/Deep-Fake-Detector-v2-Model: Pending
+  prithivMLmods/deepfake-detector-model-v1: Pending
+  Ateeqq/ai-vs-human-image-detector: Pending
+  jacoballessio/ai-image-detect-distilled: Pending
+
+Starting predict_full_suite...
+
+Analysis completed in 0.01 seconds.
+Consensus: Real
+Total Models Run: 0
+Patch Conflicts: 0
