@@ -1,0 +1,22 @@
+
+--- DEBUGGING REAL-LIKE IMAGE (Random Noise) ---
+VERDICT: Real (Score: 0.24)
+[Pixel] ELA Max Diff: 1.0000
+[Pixel] Noise Std:    26.6093
+[Freq]  FFT Energy:   194.1822
+[Freq]  DWT HH Ratio: 0.032319
+-> ELA votes AI (Manipulated)
+-> Noise votes AI (Too noisy)
+-> FFT votes AI (Artifacts)
+-> DWT votes Real
+
+--- DEBUGGING AI-LIKE IMAGE (Smooth Shapes) ---
+VERDICT: Real (Score: 0.375)
+[Pixel] ELA Max Diff: 0.7098
+[Pixel] Noise Std:    0.9396
+[Freq]  FFT Energy:   122.1179
+[Freq]  DWT HH Ratio: 0.000170
+-> ELA votes AI (Manipulated)
+-> Noise votes AI (Too smooth)
+-> FFT votes Real
+-> DWT votes AI (Med Detail)
